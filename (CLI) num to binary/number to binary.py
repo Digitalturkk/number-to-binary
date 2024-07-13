@@ -46,9 +46,9 @@ system = system.lower()
 
 num = int(input("Enter a number: "))
 
-if system == "hexadecimal" or system == "16":
+if system in ("hexadecimal","16"):
     hexadecimal(num)
-elif system == "binary" or system == "2":
+elif system in ("binary", "2"):
     binary(num) 
-elif system == "octal" or system == "8":
+elif system in ("octal", "8"):
     octal(num)
