@@ -1,7 +1,9 @@
 # number-to-binary
 
-It's just a program that convert your number to binary code.
-In first directory, there are CLI version of my code
-On another directory, there are GUI version with python Tkinter (I'm working on it)
+It's just a program that convert your number to binary, hexadecimal and octal code.
+In first directory, there is a CLI version of my code.
 
-Fell free to copy and edit my code!
+On another directory, there is a GUI version with python PyQt5 (I'm working on it),
+also you can choose from which number system to which number system you want to convert your number.
+
+Fell free to copy and edit my code! But remember, there is a BSD-2 License!
