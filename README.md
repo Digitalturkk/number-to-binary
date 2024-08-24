@@ -5,5 +5,6 @@ In first directory, there is a CLI version of my code.
 --------------------------------------------------------------------------------------
 *On another directory,* there is a **GUI** version with python PyQt5 (I'm working on it),
 also you can choose from which number system to which number system you want to convert your number.
+<p> Just run it! </p>
 
 Fell free to copy and edit my code! But remember, there is a BSD-2 License!
